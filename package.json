@@ -1,5 +1,5 @@
 {
-  "name": "rock-paper-scissors",
+  "name": "",
   "private": true,
   "scripts": {
     "dev": "next dev",
