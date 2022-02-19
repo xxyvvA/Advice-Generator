@@ -12,3 +12,11 @@ body,
 body > div:not(#__next-build-watcher) {
   height: 100%;
 }
+
+body > div:not(#__next-build-watcher) {
+  background-color: #202733;
+  padding: 120px 16px 0px 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

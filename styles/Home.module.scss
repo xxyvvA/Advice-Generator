@@ -1,0 +1,19 @@
+.container {
+  @apply bg-[#313A48] rounded-[10px] flex flex-col gap-[24px] items-center text-center pt-[40px] px-[24px] max-w-[540px];
+}
+
+.content {
+  @apply flex flex-col gap-[24px];
+}
+
+.number {
+  @apply text-[#53FFAA];
+}
+
+.quote {
+  @apply text-[24px] font-bold text-[#CEE3E9];
+}
+
+.button {
+  @apply p-[20px] bg-[#53FFAA] rounded-full mb-[-32px];
+}
